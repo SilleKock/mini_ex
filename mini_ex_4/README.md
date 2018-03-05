@@ -1,4 +1,3 @@
-![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_4/Sk%C3%A6rmbillede%202018-03-05%20kl.%2023.53.51.png)
 ![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_4/Sk%C3%A6rmbillede%202018-03-05%20kl.%2023.53.09.png)
 
 URL to my program: https://rawgit.com/SilleKock/mini_ex/master/mini_ex_4/mini_ex_4/sketch.js
