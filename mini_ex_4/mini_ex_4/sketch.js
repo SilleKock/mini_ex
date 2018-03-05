@@ -18,7 +18,6 @@ function draw() {
 
 //test result
 if(on){
-  button = createButton("RETURN");
   noStroke();
   fill(255,204,255);
   rect(0,0,windowWidth,windowHeight);
