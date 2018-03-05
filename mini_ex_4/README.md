@@ -8,3 +8,4 @@ My program captures how data capture and big data collects data about us that ca
 Creating this program got me thinking about how much data about us are being captured. The internet knows so much about us that it might even be able to predict our emotional state and knows what we need when feeling sad, happy, angry and so on. The computer can suddenly become a friend that gives us advice on how to get better if we feel bad.   
 
 
+ 
