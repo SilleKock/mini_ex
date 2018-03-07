@@ -14,37 +14,34 @@ function draw() {
   // put drawing code here
   background(255,80,80);
 
-
 //test result
 if(on){
   noStroke();
   fill(255,204,255);
   rect(0,0,windowWidth,windowHeight);
   fill(255);
-  text('The computer has registered:',500,250);
+  text('The computer has registered:',width/2,250);
   textSize(25);
   fill(204,0,204);
-  text(tekst[index],500,290);
+  text(tekst[index],width/2,290);
+
 }
 
 //start page
 if(!on){
   button = createButton("GO");
-  button.position(485,360);
+  button.position(width/2,360);
   button.mousePressed(test);
   fill(255,150,255);
   textAlign(CENTER);
   textSize(30);
-  text('Place your hand on the mousepad...',500,250);
-  text('and press go',500,300);
+  text('Place your hand on the mousepad...',width/2,250);
+  text('and press go',width/2,300);
 }
 }
 function test(){
   on = !on;
+  var rand = int(random(tekst.length));
+  index = rand;
 
-  index = index + 1;
-
-  if(index == tekst.length){
-    index = 0;
   }
-}
