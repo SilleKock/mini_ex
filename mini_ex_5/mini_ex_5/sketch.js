@@ -18,7 +18,7 @@ for (let i = 0; i < 3; i++){
 xpos = [(windowWidth*(1/4)),(windowWidth*(2/4)), (windowWidth*(3/4))];
 var rand = int(random(xpos.length));
 index = rand;
-} 
+}
 }
 
 function draw() {
@@ -27,8 +27,8 @@ fill(255);
 textAlign(CENTER);
 textSize(windowWidth/40);
 textStyle(BOLD);
-text('Press a cup to find the ball', windowWidth/2, 100);
-
+text('Press a cup to find the ball', windowWidth/2, 130);
+ 
 //ball
 noStroke();
 fill(255);
