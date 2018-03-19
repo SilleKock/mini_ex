@@ -1,6 +1,6 @@
 Link to my program https://rawgit.com/SilleKock/mini_ex/master/mini_ex_6/mini_ex_6/index.html
 
-![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_6/Sk%C3%A6rmbillede%202018-03-19%20kl.%2020.57.12.png)
+![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_6/Sk%C3%A6rmbillede%202018-03-19%20kl.%2022.09.25.png)
 
 For this mini exercise I was very inspired by the programs from the Generative Design website. I really liked the simplicity of these generative programs and I found it exciting how a simple program and code can create so many different visuals as it evolves over time and/or through interaction. The vision for my program was to capture this simplicity and work with mouse interaction to generate new visuals. 
 
