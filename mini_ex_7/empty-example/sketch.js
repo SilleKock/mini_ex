@@ -35,22 +35,3 @@ COMPUTERLOVE(150,150);
 COMPUTERLOVE(150,150);
 
 }
-// function DATADATE (x){
-//
-//   datacount++;
-//   if(datacount>=data.length){
-//     datacount=x;
-//   }
-//   datecount++;
-//   if(datecount>=date.length){
-//     datecount=x;
-//   }
-//   numbercount++;
-//   if(numbercount>=number.length){
-//     numbercount=x;
-//   }
-//   needcount++;
-//   if(needcount>=need.length){
-//     needcount=x;
-//   }
-// }
