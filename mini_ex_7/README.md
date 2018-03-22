@@ -1,3 +1,3 @@
-![alt text](Mini_ex7_scr.png)
+![ScreenShot](Mini_ex7_scr.png)
 
-https://rawgit.com/thomasthomsen16/mini_ex_all/master/mini_ex7/empty-example/index.html
+https://rawgit.com/SilleKock/mini_ex/master/mini_ex_7/empty-example/index.html
