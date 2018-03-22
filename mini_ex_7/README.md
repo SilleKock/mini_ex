@@ -1,6 +1,7 @@
 ### C0MPUT3R L0V3 
 
 ![ScreenShot](Mini_ex7_scr.png)
+
 By Sille Nygaard Kock and Thomas Thomsen
 Link to the program: https://rawgit.com/SilleKock/mini_ex/master/mini_ex_7/empty-example/index.html
 
