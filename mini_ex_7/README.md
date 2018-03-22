@@ -8,4 +8,4 @@ Link to the program: https://rawgit.com/SilleKock/mini_ex/master/mini_ex_7/empty
 
 #### Each of you in the group analyze your own e-lit work by using the text'Vocable Code': what is the aesthetic aspects of your program in particular to the relationship between code and language?
 
-* “'secondary notation',a pejorative term suggesting that code's primary purpose is to be executed by a computer, and only secondarily to be understood by a human.” *
+*“'secondary notation',a pejorative term suggesting that code's primary purpose is to be executed by a computer, and only secondarily to be understood by a human.”*
