@@ -8,7 +8,7 @@ I have collaborated with Rasmus True Skov
 
 The program makes it possible for you to check how cloudy the weather is in different cities around the world. You type in the city you want to check in the input field and then the visual changes according to the number of clouds in the chosen city. This information is provided through an API from https://openweathermap.org/api. We chose to work with this API because it seemed fairly simple to work with. It was new to both of us to work with APIs, so we wanted to make sure that we could get the data and get to work with it. Although, we had problems with getting the API-key to work when uploading the program to github, so instead we have made a video presentation of the program running. 
 
-![ScreenShot](https://giphy.com/gifs/piZ3vqImND986BGXk3/html5)
+![ScreenShot](https://media.giphy.com/media/piZ3vqImND986BGXk3/giphy.gif)
 
 Whenever a new city is written in the input field, the API-data makes the amount of clouds in the sky change. We thought about implementing other parameters as well such as the speed and direction of the wind or whether it is raining or not, but this seemed to be too complicated. Instead we chose to keep it simple and spend some time creating the visual of the program in terms of adding a sun, sky and so on.   
 
