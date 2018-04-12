@@ -1,6 +1,10 @@
 ## Flowchart 
 
 ### Individual work
+![ScreenShot]()
+
+#### What may be the difficulty in drawing the flow chart?
+
 
 ### Group work
 
@@ -22,3 +26,10 @@ The primary challenge in this idea is finding, understanding and implementing a 
 Anothers challenge lies in defining both the qualities and our conceptual understanding of this throbber - does the data impact how fast this throbber ‘loads’ and how will we convey this message to the user
 
 Lastly, it’s important that we find a way to balance the penalty from being impatient and the reward for being patient. As an example: if the ‘end goal’ is instantly reached when patience is registered, the user won’t understand the impact she has on the program - same goes if the ‘end goal’ is never reached if impatuence is registered.
+
+### Individual 
+#### How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+
+
+#### If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+
