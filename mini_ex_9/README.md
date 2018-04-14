@@ -1,7 +1,7 @@
 ## Flowchart 
 
 ### Individual work
-![ScreenShot]()
+![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_9/Untitled%20Diagram.jpg)
 
 #### What may be the difficulty in drawing the flow chart?
 
