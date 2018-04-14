@@ -23,9 +23,10 @@ At the same time, we will have to define a limit in how far we will go in mimick
 
 ![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_9/EksamenFlowchart%201.jpg)
 
+#### Technical difficulties
 The primary challenge in this idea is finding, understanding and implementing a face tracking library, capturing the webcam data and then connecting it to the throbber. In order to make the program run smoothly and without errors, we need to make sure we not only find and use a face tracking library, but seek a proper understanding of its functionality. If we don’t, we might constrain ourselves and our program to the surface-level-variables we can change. This could be a problem, as the understanding and aesthetics of the throbber will not be conveyed.
 
-Anothers challenge lies in defining both the qualities and our conceptual understanding of this throbber - does the data impact how fast this throbber ‘loads’ and how will we convey this message to the user
+Another challenge lies in defining both the qualities and our conceptual understanding of this throbber - does the data impact how fast this throbber ‘loads’ and how will we convey this message to the user.
 
 Lastly, it’s important that we find a way to balance the penalty from being impatient and the reward for being patient. As an example: if the ‘end goal’ is instantly reached when patience is registered, the user won’t understand the impact she has on the program - same goes if the ‘end goal’ is never reached if impatuence is registered.
 
