@@ -3,6 +3,8 @@
 ### Individual work
 ![ScreenShot](https://github.com/SilleKock/mini_ex/blob/master/mini_ex_9/Untitled%20Diagram.jpg)
 
+Link to mini_ex_5: https://github.com/SilleKock/mini_ex/tree/master/mini_ex_5
+
 #### What may be the difficulty in drawing the flow chart?
 
 
