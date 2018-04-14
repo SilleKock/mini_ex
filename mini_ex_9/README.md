@@ -6,7 +6,7 @@
 Link to mini_ex_5: https://github.com/SilleKock/mini_ex/tree/master/mini_ex_5
 
 #### What may be the difficulty in drawing the flow chart?
-
+The program that I have chosen to base my flowchart on might not be super technical complex (I’m not sure any of my programs is that complex), but I think it made good sense to do a flowchart on it. The difficulties is to not make it too detailed and not to write it in coding language but in ‘real’ language.
 
 ### Group work
 
@@ -32,7 +32,7 @@ Lastly, it’s important that we find a way to balance the penalty from being im
 
 ### Individual 
 #### How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
-
+The obvious difference is that the first flowchart is based on a previous made program and the second flowchart is based on a program that doesn’t exist yet. The first flowchart is more detailed than the second ones due to the fact that I know all about the program. The other flowcharts was a way for us in the group to externalise our thoughts about the program and how we could execute this in a more conceptual way instead of doing the actual programming. 
 
 #### If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
 
