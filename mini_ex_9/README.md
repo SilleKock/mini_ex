@@ -31,8 +31,10 @@ Another challenge lies in defining both the qualities and our conceptual underst
 Lastly, it’s important that we find a way to balance the penalty from being impatient and the reward for being patient. As an example: if the ‘end goal’ is instantly reached when patience is registered, the user won’t understand the impact she has on the program - same goes if the ‘end goal’ is never reached if impatuence is registered.
 
 ### Individual 
-#### How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+#### How is this flow chart different?
 The obvious difference is that the first flowchart is based on a previous made program and the second flowchart is based on a program that doesn’t exist yet. The first flowchart is more detailed than the second ones due to the fact that I know all about the program. The other flowcharts was a way for us in the group to externalise our thoughts about the program and how we could execute this in a more conceptual way instead of doing the actual programming. 
 
-#### If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+#### Algorithms in a cultural context
+Algorithms have a big influence on our daily life, as we encounter them all the time. Algorithms are human made, although, they can solve problems way faster than humans and predict our action patterns based on previous ones. In that sense, algorithms has come to extend our mind and know more about our behaviour than we know ourselves. From recommending a new TV-series to knowing when we are going to work, algorithms has a big impact on our lives: 
+“Algorithms are everywhere. They already dominate the stock market, compose music, drive cars, write news articles, and author long mathematical proofs” (Ed Finn, p. 15). 
 
