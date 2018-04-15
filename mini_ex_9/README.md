@@ -6,7 +6,7 @@
 Link to mini_ex_5: https://github.com/SilleKock/mini_ex/tree/master/mini_ex_5
 
 #### What may be the difficulty in drawing the flow chart?
-The program that I have chosen to base my flowchart on might not be super technical complex (I’m not sure any of my programs is that complex), but I think it made good sense to do a flowchart on it. The difficulties is to not make it too detailed and not to write it in coding language but in ‘real’ language.
+The program I have chosen to base my flowchart on might not be super technical complex (I’m not sure any of my programs is that complex), but I think it makes good sense to do a flowchart on it. The difficulties is not to make it too detailed and not to write it in coding language but in ‘real’ language.
 
 ### Group work
 
